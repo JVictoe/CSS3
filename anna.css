@@ -1,6 +1,7 @@
 .texto {
 	background-color: grey;
 	font-size: 30px;
+	font-family: "Times New Roma", Times, serif;
 }
 
 .fundo {
@@ -8,5 +9,23 @@
 }
 
 #principal {
+	width: 900px;
+}
+
+#menu {
+	background-color: #c5c5b2;
+	padding: 18px;
+	font-size: 30px;
+	width: 880px;
+}
+
+a {
+	text-decoration: inherit;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#rodape {
+	text-align: center;
 	width: 900px;
 }
