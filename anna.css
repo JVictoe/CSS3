@@ -1,0 +1,12 @@
+.texto {
+	background-color: grey;
+	font-size: 30px;
+}
+
+.fundo {
+	background-image: url(image/fundo.png);
+}
+
+#principal {
+	width: 900px;
+}
