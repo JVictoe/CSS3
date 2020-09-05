@@ -1,1 +1,5 @@
-
+.conteudo { /* classe */
+	border: 1px solid red;
+	padding-top: 10px;
+	width: 20px;
+}
