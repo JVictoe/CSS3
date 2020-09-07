@@ -1,5 +1,19 @@
 .conteudo { /* classe */
 	border: 1px solid red;
-	padding-top: 10px;
-	width: 20px;
+	padding: 20px; /* espaçamento interno*/
+	margin-top: 20px; /* espaçamento externo*/
+	width: 170px;
 }
+
+.conteudo2 {
+	margin: 5px;
+	width: 170px;
+	border: 1px solid red;
+}
+
+#noticia {
+	background-color: grey;
+	padding: 10px;
+	margin: 10px;
+}
+
